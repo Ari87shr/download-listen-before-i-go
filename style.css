@@ -1,21 +1,20 @@
-body{
-    background-image:url(cock.in.me.png) ;
+body {
+    background-image: url(cock.in.me.png);
     background-repeat: no-repeat;
-    background-size: 5000px 200px;
-    text-align: center;
-}
-h1{ 
-    text-align: center;
-    color: white;
-}
-#h22{
-    text-align: center;
-    color: white;
-}
-h3{
+    background-size: 5500px 200px;
     text-align: center;
 }
 
-   
-    
-    
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#h22 {
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
